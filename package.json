@@ -1,0 +1,12 @@
+{
+  "name": "quem-escreve-e-apaga",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Kartzea",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
